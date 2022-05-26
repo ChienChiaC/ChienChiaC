@@ -1,17 +1,18 @@
 <img src="./img/white1.png" alt=""  width="100%">
 
-<h1>Hi , I'm Gina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi , I'm Gina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bahnschrift&size=25&color=9A7F67&background=FFFFFF00&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;Let's+Solve+problems+with+gorgeous+and+user-centric+Design.)](https://git.io/typing-svg)
 <hr/>
 <br>
 
-## 💡 About - <i> Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i><br>
+## 💡 About Me <br>
 <h4>	
-Born in 1993, Taichung. <br>
+<!-- Born in 1993, Taichung. <br>
 I like reading, taking photos, and writing to cultivate my aesthetic feeling and writing ability. <br>
 I enjoy trying different styles of design and focus on solving problems with gorgeous, user-centric Design.<br>
-<br>
+<br> -->
+你好！我是紀鑑珈，一名正在研究前端技術的視覺設計師。<br>
 喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
 希望設計是讓人一目瞭然，讓生活更加美麗與便利。<br>
 <br>  
