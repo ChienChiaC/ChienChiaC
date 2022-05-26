@@ -1,11 +1,12 @@
 <img src="./img/white1.png" alt=""  width="100%">
 
-<h1>Hi , I'm Gina CHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
-Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!
+<h1>Hi , I'm Gina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
+<i>Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Traditional+Chinese&color=9F501B&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;%E2%80%8BLet's+Solve+problems+with+gorgeous%2C+user-centric+Design.)](https://git.io/typing-svg)
 <hr/>
+<br>
 
 ## 💡 About myself
 <h4>	
@@ -32,6 +33,7 @@ I enjoy trying different styles of design and focus on solving problems with gor
 ★ 數位行銷 👉 Google基礎數位行銷資格認證<br>
 
 </h4>
+<br>
 <hr/>
 
 ## 🎨 Graphic Designing
