@@ -1,10 +1,8 @@
 <img src="./img/white1.png" alt=""  width="100%">
 
-<h1>Hi , I'm Gina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
-<i>Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i>
-</h1>
+<h1>Hi , I'm Gina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Traditional+Chinese&color=9F501B&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;%E2%80%8BLet's+Solve+problems+with+gorgeous%2C+user-centric+Design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bahnschrift&size=25&color=9A7F67&background=FFFFFF00&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;Let's+Solve+problems+with+gorgeous+and+user-centric+Design.)](https://git.io/typing-svg)
 <hr/>
 <br>
 
@@ -24,7 +22,7 @@ I enjoy trying different styles of design and focus on solving problems with gor
 
 <br>  
 	
-## 🚀 My Skills <br>
+## 🚀 My Skills - <i> Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i><br>
   
 ★ 設計能力 👉 PS、AI、ID、PR、AE <br>
 ★ 介面設計 👉 XD、Figma、Notion、Gitmind <br>
