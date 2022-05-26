@@ -1,3 +1,5 @@
+<img src="./img/white1.png" alt=""  width="100%">
+
 <h1>Hi , I'm Gina CHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
 Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!
 </h1>
@@ -69,8 +71,9 @@ I enjoy trying different styles of design and focus on solving problems with gor
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT"/>
+
 </p>
 
 <br>
@@ -79,14 +82,15 @@ I enjoy trying different styles of design and focus on solving problems with gor
 
 <p>
 <a href="https://gina12504.wixsite.com/website"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Website"/></a>
-	<a href="https://github.com/ChienchiaC"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/chien-chia-chi-44104392/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/chienchia.chi.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="mailto:gina12504@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-	<a href="https://instagram.com/chienchia.chi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.pinterest.com/chienchiachi/_saved/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Youtube"/></a>
-	<a href="https://youtube.com/playlist?list=PLuTDV7aiIg2lWajRIVJ8XoXSZlZb9HHWS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
+<a href="https://linkedin.com/in/chien-chia-chi-44104392/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/chienchia.chi.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="mailto:gina12504@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href="https://instagram.com/chienchia.chi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.pinterest.com/chienchiachi/_saved/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Youtube"/></a>
+<a href="https://youtube.com/playlist?list=PLuTDV7aiIg2lWajRIVJ8XoXSZlZb9HHWS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 	
 </p>
+
+<img align="right" src="./img/white2.png" alt="" width="100%">
 
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
