@@ -2,29 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Traditional+Chinese&color=9F501B&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;%E2%80%8BLet's+Solve+problems+with+gorgeous%2C+user-centric+Design.)](https://git.io/typing-svg)
 <hr/>
-<h4>出生於1993年，台中人。<br>
+<h3><i>Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">portfolio</a>!</i></h3>
+<hr/>
+
+## 💡 About myself
+<h4>	
+出生於1993年，台中人。<br>
 喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
 希望設計是讓人一目瞭然，讓生活更加美麗與便利。<br>
-<hr>
-  
-  ## 💻 My Portfolio <br>
+<br>
 
-★ 設計作品集網站: https://gina12504.wixsite.com/website <br>
-★ 剪輯影片作品集: https://pse.is/44pu36 <br>
-
-．具備設計手繪、影像剪輯、行銷企劃、網站規劃維護、研究分析、行政庶務等能力。<br>
+．具備平面設計、UI/UX、影像剪輯、行銷企劃、網站規劃維護、研究分析、行政庶務等能力。<br>
 ．擅長整合事務，處理需注意細節及精確性的工作。<br>
 ．負責任，能夠獨立完成工作。<br>
 ．擅長溝通亦有管理工作團隊經驗。<br>
+<br>  
+	
+## 🚀 My Skills <br>
   
- ## 🛠️ My Skills <br>
-  
-★ 設計能力 👉 手繪、PS、AI、ID、PR、AE。<br>
+★ 設計能力 👉 PS、AI、ID、PR、AE。<br>
 ★ UI / UX 👉 XD、Figma、Notion、Gitmind。<br>
 ★ 前端網頁 👉 HTML、CSS、Java Script、Vue、網頁切版。<br>
 ★ 數位行銷 👉 Google基礎數位行銷資格認證。<br>
 
 </h4>
+<br>
 <br>
 
 ## 💻 Frontend Development
@@ -49,8 +51,10 @@
   &emsp;
 </p>
 
-  
-### 👉Graphic Designing
+<br>  
+<br>
+
+## 🎨 Graphic Designing
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -74,8 +78,10 @@
   </a>
 &emsp; 
  </p>
+<br>
+<br>
 
-### 👉 Software & Tools
+## 🛠️ Software & Tools
 
 <p>
   &emsp;
@@ -87,9 +93,10 @@
   &emsp;
 </p>
 
-<br/>
+<br>
+<br>
 
-## 🙋‍♀️ Let's Connect
+## 😊 Let's Connect
 
 <p align="center">
   <a href="https://gina12504.wixsite.com/website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
