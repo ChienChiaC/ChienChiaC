@@ -9,8 +9,8 @@
   
   ## 💻 My Portfolio <br>
 
-★個人作品集網站: https://gina12504.wixsite.com/website <br>
-★剪輯影片作品集: https://pse.is/44pu36 <br>
+★ 設計作品集網站: https://gina12504.wixsite.com/website <br>
+★ 剪輯影片作品集: https://pse.is/44pu36 <br>
 
 ．具備設計手繪、影像剪輯、行銷企劃、網站規劃維護、研究分析、行政庶務等能力。<br>
 ．擅長整合事務，處理需注意細節及精確性的工作。<br>
@@ -19,9 +19,10 @@
   
  ## 🛠️ My Skills <br>
   
-．設計能力 👉 手繪、PS、AI、ID、XD、Figma、PR、AE。<br>
-．網頁語言 👉 HTML、CSS、Java Script、網頁切版。<br>
-．數位行銷 👉 Google基礎數位行銷資格認證。<br>
+★ 設計能力 👉 手繪、PS、AI、ID、PR、AE。<br>
+★ UI / UX 👉 XD、Figma、Notion、Gitmind。<br>
+★ 前端網頁 👉 HTML、CSS、Java Script、Vue、網頁切版。<br>
+★ 數位行銷 👉 Google基礎數位行銷資格認證。<br>
 
 </h4>
 <br>
@@ -55,7 +56,7 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
   </a> 
-  &emsp;
+ &emsp;  
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
   </a> 
