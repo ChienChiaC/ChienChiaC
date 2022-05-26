@@ -14,27 +14,28 @@ I enjoy trying different styles of design and focus on solving problems with gor
 <br> -->
 你好！我是紀鑑珈，一名正在研究前端技術的視覺設計師。<br>
 喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
-希望設計是讓人一目瞭然，讓生活更加美麗與便利。<br>
+希望透過一目瞭然的設計，解決問題、讓生活更加美麗與便利。<br>
 <br>  
 	
 ## 🚀 My Skills
 ✔設計工作5年經歷，曾任職於公部門、英國設計公司。<br>
 ✔擅長整合事務與處理需注意細節及精確性的工作。<br>
 <br>
-★ 設計 👉 平面設計、UI/UX、影像剪輯、體驗研究 (Google UX Design Course Certificate) <br>
-★ 企劃 👉 社群行銷、文案撰寫、研究分析 (Google基礎數位行銷資格認證)<br>
+★ 設計 👉 平面設計、UI/UX、影像剪輯、體驗研究 <br>
+★ 企劃 👉 社群行銷、文案撰寫、研究分析 <br>
 ★ 行政 👉 簡報發表、公文撰寫、小額採購 <br>
 ★ 語言 👉 多益黃金證書、日文N5<br>
+★ 證照 👉 Google UX Design Course Certificate、Google基礎數位行銷資格認證<br>
 
 </h4>
 <br>
 <hr/>
 <br>
 
-## 🎨 Graphic Designing
+## 🎨 Graphic Design
 - :hammer_and_wrench: [設計線上作品集](https://gina12504.wixsite.com/website) - `WIX`
 - 工業設計媒體傳達組出生，研究所就讀成大創產所-品牌管理組。<br>
-- 這幾年來，以平面與網頁設計為主，但一路上不知不覺地學會影片剪輯，也曾操作公部門社群媒體~<br>
+- 這幾年來，以平面與網頁設計為主，一路上不知不覺地學會影片剪輯、寫過翻譯，也曾操作公部門社群媒體並於四個月內達成年度目標!<br>
 <br>
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
