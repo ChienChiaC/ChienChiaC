@@ -64,6 +64,18 @@ I enjoy trying different styles of design and focus on solving problems with gor
   
 </p>
 
+### :zap: 我的網站們
+  
+- [四癌篩檢補助資訊網站] (開發中...)]- `HTML`/`CSS`/`Bootstrap`/`Javascript`
+- [糕點店形象一頁式網站](https://chienchiac.github.io/bartsai/home.html) - `HTML`/`CSS`/`Bootstrap`
+- [易經占卜網站](https://chienchiac.github.io/Predict/Predict.html) - `HTML`/`CSS`/`Javascript`
+- [辨色遊戲](https://chienchiac.github.io/ColorGame/0426_Color_Final.html) - `HTML`/`CSS`/`Javascript`
+- [天氣即時預報 API練習](https://chienchiac.github.io/Weather/weather_trypic.html) - `HTML`/`CSS`/`Javascript`
+- [BMI計算器 Vue練習](https://chienchiac.github.io/BMI_Vue/BMI_Vue.html) - `HTML`/`CSS`/`Vue`
+- [仿微軟首頁切版](https://chienchiac.github.io/Microsoft/micro.html) - `HTML`/`CSS`/`Javascript`
+
+---
+
 <br>  
 
 ## 🛠️ Software & Tools
