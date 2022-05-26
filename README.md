@@ -1,103 +1,84 @@
-<h1>Hi , I'm Gina CHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi , I'm Gina CHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
+Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Traditional+Chinese&color=9F501B&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;%E2%80%8BLet's+Solve+problems+with+gorgeous%2C+user-centric+Design.)](https://git.io/typing-svg)
-<hr/>
-<h3><i>Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">portfolio</a>!</i></h3>
 <hr/>
 
 ## 💡 About myself
 <h4>	
-出生於1993年，台中人。<br>
+Born in 1993, Taichung. <br>
+I like reading, taking photos, and writing to cultivate my aesthetic feeling and writing ability. <br>
+I enjoy trying different styles of design and focus on solving problems with gorgeous, user-centric Design.<br>
+<br>
 喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
 希望設計是讓人一目瞭然，讓生活更加美麗與便利。<br>
 <br>
+✔設計工作5年經歷<br>
+✔具備平面設計、UI/UX、影像剪輯、社群企劃等能力。<br>
+✔具備文案撰寫、研究分析、公文撰寫、小額採購等能力。<br>
+✔擅長整合事務，處理需注意細節及精確性的工作。<br>
 
-．具備平面設計、UI/UX、影像剪輯、行銷企劃、網站規劃維護、研究分析、行政庶務等能力。<br>
-．擅長整合事務，處理需注意細節及精確性的工作。<br>
-．負責任，能夠獨立完成工作。<br>
-．擅長溝通亦有管理工作團隊經驗。<br>
 <br>  
 	
 ## 🚀 My Skills <br>
   
-★ 設計能力 👉 PS、AI、ID、PR、AE。<br>
-★ UI / UX 👉 XD、Figma、Notion、Gitmind。<br>
-★ 前端網頁 👉 HTML、CSS、Java Script、Vue、網頁切版。<br>
-★ 數位行銷 👉 Google基礎數位行銷資格認證。<br>
+★ 設計能力 👉 PS、AI、ID、PR、AE <br>
+★ 介面設計 👉 XD、Figma、Notion、Gitmind <br>
+★ 體驗研究 👉 Google UX Design Course Certificate <br>
+★ 前端網頁 👉 HTML、CSS、Java Script、Vue<br>
+★ 數位行銷 👉 Google基礎數位行銷資格認證<br>
 
 </h4>
 <hr/>
 
+## 🎨 Graphic Designing
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Indesign"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere"/>
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effect"/>
+  &emsp;
+
+ </p>
+<br>
+
+
 ## 💻 Frontend Development
 
 <p align="left"> 
-  &emsp; 
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  &emsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-   &emsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-   &emsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-   &emsp;
-	
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-   &emsp;	
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>	
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>	
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
-   &emsp;
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
-   &emsp;
   
 </p>
 
 <br>  
 
-
-## 🎨 Graphic Designing
-<p align="left">
-  &emsp;  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
-  </a> 
- &emsp;  
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
-&emsp; 
- </p>
-<br>
-
-
 ## 🛠️ Software & Tools
 
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
 <br>
 
-## 😊 Let's Connect
+## 😊 Get in Touch!
 
 <p>
-  <a href="https://gina12504.wixsite.com/website"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Website"/></a>
+<a href="https://gina12504.wixsite.com/website"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Website"/></a>
 	<a href="https://github.com/ChienchiaC"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/chien-chia-chi-44104392/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/chienchia.chi.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
