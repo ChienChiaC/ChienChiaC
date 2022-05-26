@@ -14,31 +14,30 @@ I enjoy trying different styles of design and focus on solving problems with gor
 <br>
 喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
 希望設計是讓人一目瞭然，讓生活更加美麗與便利。<br>
-<br>
-✔設計工作5年經歷<br>
-✔具備平面設計、UI/UX、影像剪輯、社群企劃等能力。<br>
-✔具備文案撰寫、研究分析、公文撰寫、小額採購等能力。<br>
-✔擅長整合事務，處理需注意細節及精確性的工作。<br>
-
 <br>  
 	
 ## 🚀 My Skills
-  
-★ 設計能力 👉 PS、AI、ID、PR、AE <br>
-★ 介面設計 👉 XD、Figma、Notion、Gitmind <br>
-★ 體驗研究 👉 Google UX Design Course Certificate <br>
-★ 前端網頁 👉 HTML、CSS、Java Script、Vue<br>
-★ 數位行銷 👉 Google基礎數位行銷資格認證<br>
+✔設計工作5年經歷，曾任職於公部門、英國設計公司。<br>
+✔擅長整合事務與處理需注意細節及精確性的工作。<br>
+<br>
+★ 設計 👉 平面設計、UI/UX、影像剪輯、體驗研究 (Google UX Design Course Certificate) <br>
+★ 企劃 👉 社群行銷、文案撰寫、研究分析 (Google基礎數位行銷資格認證)<br>
+★ 行政 👉 簡報發表、公文撰寫、小額採購 <br>
+★ 語言 👉 多益黃金證書、日文N5<br>
 
 </h4>
 <br>
 <hr/>
+<br>
 
 ## 🎨 Graphic Designing
+- :hammer_and_wrench: 工業設計媒體傳達組出生，研究所就讀成大創產所-品牌管理組。<br>
+- 這幾年來，以平面與網頁設計為主，但一路上不知不覺地學會影片剪輯，也曾操作公部門社群媒體~<br>
+<br>
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Indesign"/>
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Indesign"/><br>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere"/>
@@ -50,6 +49,8 @@ I enjoy trying different styles of design and focus on solving problems with gor
 
 
 ## 💻 Frontend Development
+- :crossed_swords: 目前以 `CSS`為主攻項目，同時努力學習 `JS`等框架，未來希望成為能與前端工程師溝通無障礙的UIUX設計師!<br>
+<br>
 
 <p align="left"> 
 
