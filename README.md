@@ -31,7 +31,8 @@ I enjoy trying different styles of design and focus on solving problems with gor
 <br>
 
 ## 🎨 Graphic Designing
-- :hammer_and_wrench: 工業設計媒體傳達組出生，研究所就讀成大創產所-品牌管理組。<br>
+- :hammer_and_wrench: [設計線上作品集](https://gina12504.wixsite.com/website) - `WIX`
+- 工業設計媒體傳達組出生，研究所就讀成大創產所-品牌管理組。<br>
 - 這幾年來，以平面與網頁設計為主，但一路上不知不覺地學會影片剪輯，也曾操作公部門社群媒體~<br>
 <br>
 <p align="left">
