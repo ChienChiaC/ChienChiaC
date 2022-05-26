@@ -6,7 +6,7 @@
 <hr/>
 <br>
 
-## 💡 About myself
+## 💡 About - <i> Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i><br>
 <h4>	
 Born in 1993, Taichung. <br>
 I like reading, taking photos, and writing to cultivate my aesthetic feeling and writing ability. <br>
@@ -22,7 +22,7 @@ I enjoy trying different styles of design and focus on solving problems with gor
 
 <br>  
 	
-## 🚀 My Skills - <i> Spare some time to take a look at my <a href="https://gina12504.wixsite.com/website">Portfolio</a>!</i><br>
+## 🚀 My Skills
   
 ★ 設計能力 👉 PS、AI、ID、PR、AE <br>
 ★ 介面設計 👉 XD、Figma、Notion、Gitmind <br>
