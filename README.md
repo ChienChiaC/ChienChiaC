@@ -2,19 +2,20 @@
 
 <h1>Hi , I'm Gina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bahnschrift&size=25&color=9A7F67&background=FFFFFF00&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;Let's+Solve+problems+with+gorgeous+and+user-centric+Design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bahnschrift&size=28&color=9A7F67&background=FFFFFF00&width=800&lines=I+am+a+Designer%2C+Problem+Solver+and+a+Communicator.;Let's+Solve+problems+with+gorgeous+and+user-centric+Design.)](https://git.io/typing-svg)
 <hr/>
-<br>
+
 
 ## 💡 About Me <br>
 <h4>	
-<!-- Born in 1993, Taichung. <br>
-I like reading, taking photos, and writing to cultivate my aesthetic feeling and writing ability. <br>
-I enjoy trying different styles of design and focus on solving problems with gorgeous, user-centric Design.<br>
-<br> -->
+	
 你好！我是紀鑑珈，一名正在研究前端技術的視覺設計師。<br>
-喜歡閱讀培養文字能力、透過拍照紀錄生活與嘗試各種風格美學。<br>
-希望透過一目瞭然的設計，解決問題、讓生活更加美麗與便利。<br>
+</h4>	
+
+出生於1993年，熱衷學習並分享知識來解決問題。<br>
+<b>擅長溝通、規劃、處理細節，獨立亦能團隊合作。</b><br>
+希望透過以人為本的設計讓生活更加美麗與便利。<br>
+
 <br>  
 	
 ## 🚀 My Skills
@@ -27,16 +28,17 @@ I enjoy trying different styles of design and focus on solving problems with gor
 ★ 語言 👉 多益黃金證書、日文N5<br>
 ★ 證照 👉 Google UX Design Course Certificate、Google基礎數位行銷資格認證<br>
 
-</h4>
+
 <br>
 <hr/>
-<br>
+
 
 ## 🎨 Graphic Design
 - :hammer_and_wrench: [設計線上作品集](https://gina12504.wixsite.com/website) - `WIX`
 - 工業設計媒體傳達組出生，研究所就讀成大創產所-品牌管理組。<br>
 - 這幾年來，以平面與網頁設計為主，一路上不知不覺地學會影片剪輯、寫過翻譯，也曾操作公部門社群媒體並於四個月內達成年度目標!<br>
 <br>
+
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
@@ -54,6 +56,8 @@ I enjoy trying different styles of design and focus on solving problems with gor
 ## 💻 Frontend Development
 - :crossed_swords: 目前以 `CSS`為主攻項目，同時努力學習 `JS`等框架，未來希望成為能與前端工程師溝通無障礙的UIUX設計師!<br>
 <br>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,vue&perline=8)](https://skillicons.dev) -->
 
 <p align="left"> 
 
@@ -76,10 +80,10 @@ I enjoy trying different styles of design and focus on solving problems with gor
 - [天氣即時預報 API練習](https://chienchiac.github.io/Weather/weather_trypic.html) - `HTML`/`CSS`/`Javascript`
 - [BMI計算器 Vue練習](https://chienchiac.github.io/BMI_Vue/BMI_Vue.html) - `HTML`/`CSS`/`Vue`
 - [仿微軟首頁切版](https://chienchiac.github.io/Microsoft/micro.html) - `HTML`/`CSS`/`Javascript`
-
----
-
 <br>  
+
+
+
 
 ## 🛠️ Software & Tools
 
