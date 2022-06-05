@@ -26,7 +26,25 @@
 ★ 企劃 👉 社群行銷、文案撰寫、研究分析 <br>
 ★ 行政 👉 簡報發表、公文撰寫、小額採購 <br>
 ★ 語言 👉 多益黃金證書、日文N5<br>
-★ 證照 👉 Google UX Design Course Certificate、Google基礎數位行銷資格認證<br>
+
+<br>
+
+## 🎯 相關證書
+### Coursera
+- Google UX Design Course Certificate [課程連結](https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=B2C&campaignid=12566638067&adgroupid=119528847077&device=c&keyword=google%20ux%20design%20certificate&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507197228289&hide_mobile_promo&gclid=Cj0KCQjwheyUBhD-ARIsAHJNM-N7QtNrMavWVGfXMwqW22cNFK6EiW9pVpG9GeYserPn6wh6U_GuvQIaAkUEEALw_wcB)
+  <details>
+    <summary>查看證書</summary>
+    <a href="https://imgur.com/xEdlyvH"><img src="https://i.imgur.com/xEdlyvH.jpg" title="source: imgur.com" /></a>
+  </details>
+  
+### Google數位學程
+- 數位行銷基礎知識完整版 [課程連結](https://learndigital.withgoogle.com/digitalgarage-tw/course/digital-marketing)
+  <details>
+    <summary>查看證書</summary>
+   <a href="https://imgur.com/LjV6cnk"><img src="https://i.imgur.com/LjV6cnk.png" title="source: imgur.com" /></a>
+  </details>
+  
+<br>
 
 
 <br>
@@ -60,7 +78,6 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,vue&perline=8)](https://skillicons.dev) -->
 
 <p align="left"> 
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
@@ -96,23 +113,6 @@
 
 </p>
 
-<br>
-
-## 相關證書
-### Coursera
-- Google UX Design Course Certificate [課程連結](https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=B2C&campaignid=12566638067&adgroupid=119528847077&device=c&keyword=google%20ux%20design%20certificate&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507197228289&hide_mobile_promo&gclid=Cj0KCQjwheyUBhD-ARIsAHJNM-N7QtNrMavWVGfXMwqW22cNFK6EiW9pVpG9GeYserPn6wh6U_GuvQIaAkUEEALw_wcB)
-  <details>
-    <summary>查看證書</summary>
-    <a href="https://imgur.com/xEdlyvH"><img src="https://i.imgur.com/xEdlyvH.jpg" title="source: imgur.com" /></a>
-  </details>
-  
-### Google數位學程
-- 數位行銷基礎知識完整版 [課程連結](https://learndigital.withgoogle.com/digitalgarage-tw/course/digital-marketing)
-  <details>
-    <summary>查看證書</summary>
-   <a href="https://imgur.com/LjV6cnk"><img src="https://i.imgur.com/LjV6cnk.png" title="source: imgur.com" /></a>
-  </details>
-  
 <br>
 
 ## 😊 Get in Touch!
