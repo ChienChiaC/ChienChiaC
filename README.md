@@ -38,7 +38,7 @@
   </details>
   
 ### Google數位學程
-- 數位行銷基礎知識完整版 [課程連結](https://learndigital.withgoogle.com/digitalgarage-tw/course/digital-marketing)
+- The fundamentals of Digital Marketing [課程連結](https://learndigital.withgoogle.com/digitalgarage-tw/course/digital-marketing)
   <details>
     <summary>查看證書</summary>
    <a href="https://imgur.com/LjV6cnk"><img src="https://i.imgur.com/LjV6cnk.png" title="source: imgur.com" /></a>
@@ -73,6 +73,7 @@
 
 ## 💻 Frontend Development
 - :crossed_swords: 目前以 `CSS`為主攻項目，同時努力學習 `JS`等框架，未來希望成為能與前端工程師溝通無障礙的UIUX設計師!<br>
+- 📚預計進修 : `Tailwind CSS` `Vue.js` `React.js` <br>
 <br>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,vue&perline=8)](https://skillicons.dev) -->
